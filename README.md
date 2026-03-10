@@ -8,5 +8,3 @@ I am extremely passionate about the foundations of Computation, Computing System
 #### sidebar
 Beyond the academy, I work as a professional graphic designer, having collaborated with startups and independent clients. In my private practice, I enjoy music, reading fiction and sleeping 💤 ^^
 
-
-<small>¹ <em>Datalogi</em>: Peter Naur’s term (1966), preferring the "science of data and data processes" over the machine-centric "Computer Science."Naur famously argued that calling it "Computer Science" is like calling surgery "Knife Science." As a student of the field, I prefer the distinction.</small>
