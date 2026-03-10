@@ -1,5 +1,5 @@
 #### about me 
-I am extremely passionate about the foundations of Computation, Computing Systems, and Datalogi¹, underpinned by a profound appreciation for the mathematical and physical sciences. I operate on the conviction that the advancement of computing shouldn't occur in isolation; rather, it must be a multidisciplinary synthesis. Consequently, my academic inquiries extend beyond the algorithmic into Economics, Philosophy, Linguistics, and Psychology(last three without any formal degrees) , seeking to understand the socio-cognitive frameworks within which technical systems operate. I intend to positively contribute to the fields both intellectually and also, in terms of advancements and accessibility. 
+I am extremely passionate about the foundations of Computation, Computing Systems, and Informatics, underpinned by a profound appreciation for the mathematical and physical sciences. It is my belief that advancements are always multi-disciplinary.
 
 #### *Formal Education* : 
 - **Integrated Masters in Software Development** : Department of Information Technology, University of Gauhati
