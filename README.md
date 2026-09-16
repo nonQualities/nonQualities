@@ -1,14 +1,8 @@
-```
+
 about me
 --------
-I am extremely passionate about the foundations of Computation, Computing Systems, and Informatics,
-underpinned by a profound appreciation for the mathematical and physical sciences.
- It is my belief that advancements are always multi-disciplinary.
-
-Currently I am focusing on learning the fundamentals, fundamentally from fundamentals
-and that about covers everyting in Theoretical CS ^^ haha 
-In terms of practicality, I am akin to G.H Hardy -- its just mere and pure accident,
-but intellectually I am more akin to a avg human, unlike Hardy!
+Hello, this is ronit. I am an undergrad and my focus is primarily on systems programming,network engineering and performance engineering. I treat  development as applied computer science, not arbitrary assembly, that makes software sloppy, slow, big and unnecessarily complicated. I believe in simple, small and performant software.
+Presently, I am trying to cover everything from ground up and try some small projects here and there. I also like theoretical computer science.
 
 reach out to me have a chat:
 - DISCORD : nonQualities
@@ -20,7 +14,7 @@ ig that's it. for all other details browse my repo list.
 I do have a portfolio, I will link that to somewhere else.
 see ya!
 
-- ronit!!
+— ronit!!
 
 
 sidebar
