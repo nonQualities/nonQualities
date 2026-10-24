@@ -6,7 +6,7 @@ Presently, I am trying to cover everything from ground up and try some small pro
 
 reach out to me have a chat:
 - DISCORD : nonQualities
-- MAIL : choudhury.ronit@proton.me
+- MAIL : ronit965choudhury@outlook.com \
 do not try me on LinkedIn, I hate that place, although you can connect with me there, as I am there by necessity.
 anyways see you on discord or email!
 
